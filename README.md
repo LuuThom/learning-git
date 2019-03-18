@@ -1,12 +1,9 @@
-# learning-git
+﻿# learning-git
 
 Git
 
 1. Lien ket thu muc hien tai voi repo github: git remote origin [dia chi repo]
 Ex: git remote add origin git@github.com:LuuThom/18_03_Project.git
-
-
-
 
 2.  Cac thao tac cơ bản để đẩy code lên github
 
